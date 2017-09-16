@@ -4,7 +4,7 @@ import akka.util.Timeout
 import scala.concurrent._
 import scala.concurrent.duration._
 
-object AkkaTest extends App {
+object AkkaDemo extends App {
   println("Running main class")
   
   //Init the actorsystem 
