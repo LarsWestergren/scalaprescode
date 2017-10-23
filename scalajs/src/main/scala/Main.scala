@@ -5,7 +5,7 @@ import org.scalajs.jquery.jQuery
 
 object Main extends App {
 
-  //Becomees console.log
+  //Becomes console.log
   println("hello")
 
 
